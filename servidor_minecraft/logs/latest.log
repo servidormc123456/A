@@ -441,3 +441,11 @@
 [08Mar2025 22:32:06.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
 [08Mar2025 22:32:06.020] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
 [08Mar2025 22:34:46.015] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c64d9c1[id=<null>,name=sergiosssssss,properties={},legacy=false] (/127.167.8.25:35607) lost connection: Disconnected
+[08Mar2025 22:35:02.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:50375] logged in with entity id 7516 at (51.69999998807907, 111.0, -20.082561499871595)
+[08Mar2025 22:35:02.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[08Mar2025 22:35:02.108] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[08Mar2025 22:35:02.220] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sergiosssssss (18)
+[08Mar2025 22:35:02.221] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sergiosssssss
+[08Mar2025 22:36:39.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[08Mar2025 22:36:39.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[08Mar2025 22:36:39.123] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sergiosssssss
