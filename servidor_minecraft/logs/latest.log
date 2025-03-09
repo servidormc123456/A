@@ -109,3 +109,4 @@
 [09Mar2025 14:57:11.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
 [09Mar2025 14:57:36.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty is Hard
 [09Mar2025 15:05:44.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Not Today, Thank You]
+[09Mar2025 15:39:09.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1076, y=69, z=-3204} BlockPos{x=1076, y=67, z=-3203}
