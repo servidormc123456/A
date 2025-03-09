@@ -3010,3 +3010,37 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Mar2025 15:39:27.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Mar2025 15:44:27.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Mar2025 15:44:27.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 15:49:27.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 15:49:27.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 15:52:27.943] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1259 | 12 | -2961)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1259 | 12 | -2961)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1259 | 12 | -2961)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1259 | 12 | -2961)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (1270 | 12 | -2967)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (1270 | 12 | -2967)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (1270 | 12 | -2967)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (1270 | 12 | -2967)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (1269 | 12 | -2966)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (1269 | 12 | -2966)
+[09Mar2025 15:52:27.944] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (1269 | 12 | -2966)
+[09Mar2025 15:52:27.945] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (1269 | 12 | -2966)
+[09Mar2025 15:52:27.945] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (1265 | 12 | -2982)
+[09Mar2025 15:52:27.946] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (1265 | 12 | -2982)
+[09Mar2025 15:52:27.946] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (1265 | 12 | -2982)
+[09Mar2025 15:52:27.947] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (1265 | 12 | -2982)
+[09Mar2025 15:52:27.947] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (1268 | 12 | -2961)
+[09Mar2025 15:52:27.947] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (1268 | 12 | -2961)
+[09Mar2025 15:52:27.947] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (1268 | 12 | -2961)
+[09Mar2025 15:52:27.947] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (1268 | 12 | -2961)
+[09Mar2025 15:52:27.947] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (1270 | 3 | -2967)
+[09Mar2025 15:52:27.947] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (1270 | 3 | -2967)
+[09Mar2025 15:52:27.948] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1264 | 3 | -2977)
+[09Mar2025 15:52:27.948] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1264 | 3 | -2977)
+[09Mar2025 15:52:27.948] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (1269 | 3 | -2966)
+[09Mar2025 15:52:27.948] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (1269 | 3 | -2966)
+[09Mar2025 15:52:27.948] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (1265 | 3 | -2982)
+[09Mar2025 15:52:27.948] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (1265 | 3 | -2982)
+[09Mar2025 15:52:27.948] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (1268 | 3 | -2961)
+[09Mar2025 15:52:27.949] [Worker-Main-32/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (1268 | 3 | -2961)
+[09Mar2025 15:54:27.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 15:54:27.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

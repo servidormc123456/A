@@ -647,6 +647,7 @@
       "minecraft:skeleton": "2025-03-09 15:03:10 +0000",
       "minecraft:spider": "2025-03-09 15:04:45 +0000",
       "minecraft:slime": "2025-03-08 23:34:36 +0000",
+      "minecraft:zombified_piglin": "2025-03-09 15:53:20 +0000",
       "minecraft:zombie": "2025-03-08 23:27:54 +0000"
     },
     "done": false
@@ -1491,6 +1492,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-09 15:54:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-09 14:19:01 +0000"
@@ -1860,6 +1867,18 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-09 14:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-09 15:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-09 15:44:37 +0000"
     },
     "done": true
   },
