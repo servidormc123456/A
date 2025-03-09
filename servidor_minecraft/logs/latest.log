@@ -101,3 +101,10 @@
 [09Mar2025 14:28:21.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Suit Up]
 [09Mar2025 14:46:54.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [09Mar2025 14:46:54.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diffuculty hard<--[HERE]
+[09Mar2025 14:54:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Mar2025 14:54:49.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficulty/difficulty hard<--[HERE]
+[09Mar2025 14:55:29.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Mar2025 14:55:29.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficultyhard<--[HERE]
+[09Mar2025 14:56:57.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty is Easy
+[09Mar2025 14:57:11.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[09Mar2025 14:57:36.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty is Hard
