@@ -97,3 +97,5 @@
 [09Mar2025 14:21:45.283] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=484, y=-58, z=387}
 [09Mar2025 14:21:45.283] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=492, y=-59, z=388}
 [09Mar2025 14:21:45.284] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=488, y=-57, z=387}
+[09Mar2025 14:25:16.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Isn't It Iron Pick]
+[09Mar2025 14:28:21.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Suit Up]
