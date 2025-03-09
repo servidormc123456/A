@@ -99,3 +99,5 @@
 [09Mar2025 14:21:45.284] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=488, y=-57, z=387}
 [09Mar2025 14:25:16.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Isn't It Iron Pick]
 [09Mar2025 14:28:21.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Suit Up]
+[09Mar2025 14:46:54.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Mar2025 14:46:54.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diffuculty hard<--[HERE]
