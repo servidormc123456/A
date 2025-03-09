@@ -622,6 +622,7 @@
       "cooked_porkchop": "2025-03-09 14:58:46 +0000",
       "cooked_beef": "2025-03-09 00:16:55 +0000",
       "porkchop": "2025-03-09 00:34:12 +0000",
+      "potato": "2025-03-09 15:24:50 +0000",
       "mutton": "2025-03-09 00:29:23 +0000",
       "bread": "2025-03-08 23:48:12 +0000",
       "suspicious_stew": "2025-03-08 23:27:36 +0000",
@@ -1489,6 +1490,12 @@
       "has_cocoa": "2025-03-09 00:44:46 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-03-09 15:34:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
